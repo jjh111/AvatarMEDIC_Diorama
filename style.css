@@ -23,12 +23,12 @@ color: #FFFFFF;
 
   #JamSessionModel{
     position: absolute;
-    height: 200%;
+    height: 100%;
     width: 100%;
   }
   #CPRmodel{
     position: absolute;
-    height: 200%;
+    height: 100%;
     width: 100%;
   }
 .sig {
