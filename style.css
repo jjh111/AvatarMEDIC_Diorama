@@ -26,7 +26,11 @@ color: #FFFFFF;
     height: 200%;
     width: 100%;
   }
-
+  #CPRmodel{
+    position: absolute;
+    height: 200%;
+    width: 100%;
+  }
 .sig {
   position: absolute;
   height: auto;
