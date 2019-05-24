@@ -59,7 +59,7 @@ color: #FFFFFF;
   position: absolute;
   height: auto;
   width: calc(55% - 43vw);
-  bottom: 1.5vh;
+  bottom: 1vh;
   left: 15%;
   z-index: 55;
   font-family: 'IBM Plex Sans', sans-serif;
